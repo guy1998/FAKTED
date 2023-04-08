@@ -1,0 +1,25 @@
+Assumptions:
+
+• It is assumed that the customers have a valid driver's license and a credit/debit card for payment.
+
+• It is assumed that the staff and customers are familiar with the English or Albanian language.
+
+• The car rental software application assumes the availability of a stable and reliable internet connection for both the staff and customers to access the system.
+
+• It is assumed that the application will be available on popular mobile devices with the latest iOS and Android operating systems.
+
+• The application assumes that the staff and customers have basic knowledge of operating the application and troubleshooting any issues that may arise.
+
+• It is assumed that the car rental company will have enough vehicles available to meet the demand of their customers during peak times.
+
+• The application assumes that the car rental company will have the necessary equipment to perform regular maintenance and safety checks on their vehicles, such as tire pressure and fluid level indicators.
+
+• It is assumed that the car rental company will have a valid and up-to-date insurance policy for all their vehicles and customers, and that customers will be made aware of the insurance coverage and limitations.
+
+• The application assumes that the car rental company will comply with all legal and regulatory requirements related to car rental operations in the relevant jurisdiction, such as age limits, driving experience, and minimum insurance coverage.
+
+• It is assumed that the customers will provide accurate personal and payment information during the reservation process, and that the car rental company will verify the information before approving the reservation.
+
+• The application assumes that the customers will return the rented car on time and in the same condition as when it was rented, and that any damages or additional charges will be promptly communicated and resolved.
+
+• It is assumed that the car rental company will have a customer support system in place to address any concerns or issues that customers may have while using the application or renting a vehicle. 
