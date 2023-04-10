@@ -1,0 +1,9 @@
+• In order to print the bill contract, the car rental agent must enter the information of the customer and the available car.
+• If a car is not available, the car rental agent cannot make a reservation for it. In order to make a rental reservation, the customer needs to log in, pick an available car and pay for the provided service.
+• If a chosen car is not currently available, the customer may choose another car for reservation.
+• In order to finalize the return of the vehicle, the customer must pay every fine placed on the vehicle.
+• Customers are dependent on their subscription so that they can pick a certain car model.
+• The customer cannot pick any car they want if they do not have a subscription on the service.
+• In order to receive a discount on the next rental, the customer must have made reservations at least 5 times.
+• A car cannot be available for reservations, if the driver has confirmed it is under use by another customer.
+• The car’s availability is dependent on the condition of the car post-rental, checked by the driver, in order to be available for another time. 
