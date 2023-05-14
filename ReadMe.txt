@@ -1,11 +1,12 @@
 Unoffical Work
 
 Week 5 ---
-Denis Kreci: Sequence diagrams (7 pieces)
-Erlis Kendezi: Timing diagrams(7 pieces)
-Tomas Monka: Product requirements (chapter 3 documentation)
-Kevin Hyska: Organizational requirements(chapter 3 documentation)
-Fabiona: Functional requirements
-Aldrin: Functional requirements and domain requirements
+Denis Kreci: 10 Sequence diagrams
+Erlis Kendezi: 10 class collaboration diagrams
+Tomas Monka: Product requirements (chapter 3 documentation) + 10 sequence diagrams
+Kevin Hyska: Organizational requirements(chapter 3 documentation) + 5dfd
+Fabiona: Functional requirements + 5 bpmn
+Aldrin: Functional requirements and domain requirements + 5dfd
 
-Deadline: Tuesday 9th May
+Deadline for requirements: Today 14th May
+Deadline for diagrams: Wednesday 17th May
